@@ -1,0 +1,6 @@
+Book Name,Author,Genre,Quantity,Borrowed,Date Borrowed,Date of Return
+The Great Gatsby,F. Scott Fitzgerald,Classic,5,0,,
+1984,George Orwell,Dystopian,9,1,2024-06-02,2024-06-09
+To Kill a Mockingbird,Harper Lee,Classic,5,2,2024-06-04,2024-06-11
+The Catcher in the Rye,J.D. Salinger,Fiction,8,0,,
+Pride and Prejudice,Jane Austen,Romance,6,0,,
